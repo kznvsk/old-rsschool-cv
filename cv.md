@@ -9,6 +9,8 @@ E-mail: olga_kazanovskaya@mail.ru
 
 GitHub: kznvsk
 
+Discord RSS: Olya_K
+
 ## About me
 I have no work experience yet, but I very willing to learn the skills of a frontend developer
 
@@ -29,6 +31,9 @@ while n > 9:
 print(n)
 ```
 (task solution from the course "Generation Python")
+
+## Projects
+* CV (CV#1. Markdown & Git)
 
 ## Education
 Siberian Federal University, Civil Engineering Institute, specialty "Roads and airfields"
