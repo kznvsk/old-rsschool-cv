@@ -2,8 +2,11 @@
 ====
 ## Contacts
 Address: Russia, Krasnoyarsk
+====
 Phone: +7 923 291 29 92
+====
 E-mail: olga_kazanovskaya@mail.ru
+====
 GitHub: kznvsk
 
 ## About me
